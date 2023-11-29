@@ -1,0 +1,18 @@
+{
+    "fio": "zybenko michail petrovic",
+    "ocenki": {
+        "matematika": 5,
+        "biologia": 5
+    },
+    "hobby": [
+        "havat",
+        "est",
+        "kyshat"
+    ],
+    "vozrast": 14,
+    "friend": {
+        "name": "Alisa",
+        "years": 15,
+        "hobby": null
+    }
+}
